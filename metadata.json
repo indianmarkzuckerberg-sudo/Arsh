@@ -1,0 +1,7 @@
+{
+  "name": "Arsh Cal: AI Calorie Tracker",
+  "description": "An AI-powered calorie tracker that analyzes your meals from photos or text, provides personalized meal suggestions based on your fitness goals, and helps you stay on track with your nutrition.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
